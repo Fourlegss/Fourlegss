@@ -1,4 +1,4 @@
-<h2 align="left">Hi I'm André 👋! I'm a QA | Test Analyst and here I commit my tests automation.</h2>
+<h2 align="left">Hi I'm André 👋! I'm a QA and here I commit my projects.</h2>
 
 ###
 
